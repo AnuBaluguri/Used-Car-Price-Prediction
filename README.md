@@ -17,4 +17,3 @@ To run this project locally, follow these steps:
 git clone https://github.com/AnuBaluguri/Used-Car-Price-Prediction.git
 cd Used-Car-Price-Prediction
 
-#### Dependencies
