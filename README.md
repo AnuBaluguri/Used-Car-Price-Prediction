@@ -27,7 +27,7 @@ pip install flask pandas numpy scikit-learn
 ```
 
 ### 3. Project Overview
-- **1. Data:**: The dataset (Car details v3.csv) includes various features of used cars, such as model, year of manufacture, mileage, and more.
+- **1. Data:** The dataset (Car details v3.csv) includes various features of used cars, such as model, year of manufacture, mileage, and more.
 - **2. Model Training**: The Jupyter Notebook (Price Prediction.ipynb) provides a step-by-step guide on data cleaning, feature engineering, model selection, and evaluation metrics.
 
 ## License
